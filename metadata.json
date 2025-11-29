@@ -1,0 +1,7 @@
+{
+  "name": "BeatVox Web",
+  "description": "Turn your voice into music. Hum it, beat it, loop it. The beginner-friendly music creation tool powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
